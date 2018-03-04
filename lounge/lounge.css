@@ -8,6 +8,9 @@ h1, h2 {
           border-bottom: 1px solid black;
           }
       p {
-          color: maroon;
-          
+          color: maroon;  
       }
+em {
+    font-family: serif;
+   }
+        
