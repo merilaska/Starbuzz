@@ -1,5 +1,7 @@
- h1, h2 {
+body { 
               font-family: sans-serif;
+      {
+h1, h2 {
               color: gray;
              }
       h1 {
@@ -7,5 +9,5 @@
           }
       p {
           color: maroon;
-          font-family: sans-serif;
+          
       }
